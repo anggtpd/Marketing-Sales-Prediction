@@ -28,7 +28,7 @@ TV Model:
 - Mean Absolute Error (MAE): 2.78
 - Mean Squared Error (MSE): 63.12
 - Root Mean Squared Error (RMSE): 7.94
-![TV Sales Prediction](../output_tv_sales.png)
+![TV Sales Prediction](output_tv_sales.png)
 
 Radio Model:
 - R² Score: 0.75 → Strong correlation but not overfitting

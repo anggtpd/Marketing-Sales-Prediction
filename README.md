@@ -35,6 +35,7 @@ Radio Model:
 - Mean Absolute Error (MAE): 36.41
 - Mean Squared Error (MSE): 2069.43
 - Root Mean Squared Error (RMSE): 45.49
+![TV Sales Prediction](output_radio_sales.png)
 
 ## Conclusion
 - The TV model’s R² score of 0.99 indicates that it explains nearly all the variance in sales, but it may be overfitting the training data.
